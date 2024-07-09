@@ -7,6 +7,7 @@
 ```
 sudo apt update
 sudo apt install python3 python3-pip
+sudo apt install python3-venv
 ```
 
 **ایجاد محیط مجازی و فعال سازی**
@@ -92,4 +93,8 @@ if __name__ == "__main__":
 **اجرای اسکریپت**
 ```
 python automate_transactions.py
+```
+**غیر فعال سازی محیط مجازی بعد از اتمام کار**
+```
+deactivate
 ```
