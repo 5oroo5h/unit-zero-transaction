@@ -1,7 +1,7 @@
 # unit-zero-transaction
 
->Faucet link: UNIT0-Faucet  
->Dashboard : UNIT0
+Faucet link: UNIT0-Faucet  
+Dashboard : UNIT0
 
 **راه اندازی محیط پایتون پروژه**
 ```
